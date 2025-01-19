@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP\u6587\u4EF6\\elevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|E:\\OOP\u6587\u4EF6\\elevator\\elevator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|solutionrelative:elevator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|solutionrelative:elevator\\people.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|solutionrelative:elevator\\elevator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|solutionrelative:elevator\\elevator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0ECB7B3-5D67-49FA-9050-C353F764B9AA}|elevator\\elevator.vcxproj|solutionrelative:elevator\\people.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "people.h",
+              "DocumentMoniker": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.h",
+              "RelativeDocumentMoniker": "elevator\\people.h",
+              "ToolTip": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.h",
+              "RelativeToolTip": "elevator\\people.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:03:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\main.cpp",
+              "RelativeDocumentMoniker": "elevator\\main.cpp",
+              "ToolTip": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\main.cpp",
+              "RelativeToolTip": "elevator\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T02:04:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elevator.h",
+              "DocumentMoniker": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.h",
+              "RelativeDocumentMoniker": "elevator\\elevator.h",
+              "ToolTip": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.h",
+              "RelativeToolTip": "elevator\\elevator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T02:04:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "people.cpp",
+              "DocumentMoniker": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.cpp",
+              "RelativeDocumentMoniker": "elevator\\people.cpp",
+              "ToolTip": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\people.cpp",
+              "RelativeToolTip": "elevator\\people.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T02:02:27.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "elevator.cpp",
+              "DocumentMoniker": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.cpp",
+              "RelativeDocumentMoniker": "elevator\\elevator.cpp",
+              "ToolTip": "E:\\OOP\u6587\u4EF6\\elevator\\elevator\\elevator.cpp",
+              "RelativeToolTip": "elevator\\elevator.cpp",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAALYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T02:04:20.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
